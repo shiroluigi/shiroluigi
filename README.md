@@ -1,4 +1,4 @@
-<h2 align="left">HEED MY CALL ALL THEE LANDS, TIS YR LORD <u>ROHIT MONDAL</u></h2>
+<h2 align="left">Hi im ROHIT MONDAL</h2>
 
 ###
 <div align="center">
@@ -78,7 +78,7 @@
 <hr/>
 <h1>SPECTATOR COUNT YAYYY </h1>
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/shiroluigi/count.svg?"  />
 </div>
 
