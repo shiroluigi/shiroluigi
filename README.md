@@ -68,12 +68,6 @@
 
 ###
 
-<img align="left" height="700" src="https://media1.tenor.com/m/8saFUuxOwIsAAAAd/oshi-no-ko-oshi-no-ko-kana.gif"  />
-
-###
-
-<img align="right" height="800" src="https://media1.tenor.com/m/dEX-82YvKlUAAAAC/anime-oshi-no-ko.gif"  />
-
 ###
 <hr/>
 <h1>SPECTATOR COUNT YAYYY </h1>
