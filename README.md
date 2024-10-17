@@ -78,6 +78,6 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shiroluigi)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shiroluigi&theme=dark&card_width=496)](https://git.io/streak-stats)
 
 ###
