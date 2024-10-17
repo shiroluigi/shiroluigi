@@ -1,16 +1,13 @@
 <h2 align="left">Hi im ROHIT MONDAL</h2>
 
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiroluigi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiroluigi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shiroluigi&theme=dark&card_width=496" alt="GitHub Streak" /></a>
 </div>
-###
 
 <div align="center">
 <a href="https://open.spotify.com/track/5rXceNzSDhnO2dRU8wHEz3?si=d852b4c2f0f2472c">
