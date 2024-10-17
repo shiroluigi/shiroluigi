@@ -78,6 +78,6 @@
 
 ###
 
-<h6 align="left">Penguins are a group of aquatic flightless birds from the family <br>Spheniscidae of the order Sphenisciformes.They live almost exclusively in the<br> Southern Hemisphere: only one species, the Galápagos penguin, is found north of the Equator. Highly adapted for life in the ocean water, <br>penguins have countershaded dark and white plumage and<br> flippers for swimming. Most penguins feed on krill, fish, squid<br> and other forms of sea life which they catch with their bills and<br> swallow whole while swimming.</h6>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shiroluigi)](https://git.io/streak-stats)
 
 ###
