@@ -12,7 +12,10 @@
 </div>
 
 ###
-
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shiroluigi&theme=dark&card_width=496)](https://git.io/streak-stats)
+</div>
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -75,9 +78,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/shiroluigi/count.svg?"  />
 </div>
-
-###
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shiroluigi&theme=dark&card_width=496)](https://git.io/streak-stats)
-
-###
