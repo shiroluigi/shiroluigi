@@ -10,12 +10,6 @@
 </div>
 
 <div align="center">
-<a href="https://open.spotify.com/track/5rXceNzSDhnO2dRU8wHEz3?si=d852b4c2f0f2472c">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
-</a>
-</div>
-###
-<div align="center">
 <img align="center" height="" src="https://media1.tenor.com/m/p3pCd37hueYAAAAC/arima-kana-kana-arima.gif"  />
 </div>
 <br/>
