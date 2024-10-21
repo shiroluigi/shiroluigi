@@ -6,10 +6,6 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shiroluigi&theme=dark&card_width=496" alt="GitHub Streak" /></a>
-</div>
-
-<div align="center">
 <img align="center" height="" src="https://media1.tenor.com/m/p3pCd37hueYAAAAC/arima-kana-kana-arima.gif"  />
 </div>
 <br/>
