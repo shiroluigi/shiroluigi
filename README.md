@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <a href="https://cdnlogo.com/logo/rust_28364.html"><img src="https://static.cdnlogo.com/logos/r/93/rust.svg"></a>
 </div>
 
 ###
