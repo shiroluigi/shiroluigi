@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  height="30" alt="php logo"  />
+  <img src="http://rust-lang.org/logos/rust-logo-128x128.png"  height="30" alt="php logo"  />
   <img width="12" />
 </div>
 
